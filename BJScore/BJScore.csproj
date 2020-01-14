@@ -187,7 +187,6 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="icon.ico" />
     <EmbeddedResource Include="Resources\StrategyScenarios.txt" />
     <EmbeddedResource Include="Resources\TestImports.txt" />
     <None Include="Resources\strategy.png" />

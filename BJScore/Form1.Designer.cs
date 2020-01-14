@@ -441,35 +441,35 @@
             // turnCounterToolStripMenuItem
             // 
             this.turnCounterToolStripMenuItem.Name = "turnCounterToolStripMenuItem";
-            this.turnCounterToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.turnCounterToolStripMenuItem.Size = new System.Drawing.Size(162, 22);
             this.turnCounterToolStripMenuItem.Text = "Turn Counter";
             this.turnCounterToolStripMenuItem.Click += new System.EventHandler(this.turnCounterToolStripMenuItem_Click);
             // 
             // notesToolStripMenuItem
             // 
             this.notesToolStripMenuItem.Name = "notesToolStripMenuItem";
-            this.notesToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.notesToolStripMenuItem.Size = new System.Drawing.Size(162, 22);
             this.notesToolStripMenuItem.Text = "Notes";
             this.notesToolStripMenuItem.Click += new System.EventHandler(this.notesToolStripMenuItem_Click);
             // 
             // countTrainerToolStripMenuItem
             // 
             this.countTrainerToolStripMenuItem.Name = "countTrainerToolStripMenuItem";
-            this.countTrainerToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.countTrainerToolStripMenuItem.Size = new System.Drawing.Size(162, 22);
             this.countTrainerToolStripMenuItem.Text = "Count Trainer";
             this.countTrainerToolStripMenuItem.Click += new System.EventHandler(this.countTrainerToolStripMenuItem_Click);
             // 
             // strategyChartToolStripMenuItem
             // 
             this.strategyChartToolStripMenuItem.Name = "strategyChartToolStripMenuItem";
-            this.strategyChartToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.strategyChartToolStripMenuItem.Size = new System.Drawing.Size(162, 22);
             this.strategyChartToolStripMenuItem.Text = "Strategy Chart";
             this.strategyChartToolStripMenuItem.Click += new System.EventHandler(this.strategyChartToolStripMenuItem_Click);
             // 
             // strategyPracticeToolStripMenuItem
             // 
             this.strategyPracticeToolStripMenuItem.Name = "strategyPracticeToolStripMenuItem";
-            this.strategyPracticeToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.strategyPracticeToolStripMenuItem.Size = new System.Drawing.Size(162, 22);
             this.strategyPracticeToolStripMenuItem.Text = "Strategy Practice";
             this.strategyPracticeToolStripMenuItem.Click += new System.EventHandler(this.strategyPracticeToolStripMenuItem_Click);
             // 
